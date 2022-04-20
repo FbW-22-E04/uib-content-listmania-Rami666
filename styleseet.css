@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(209, 94, 94);
+}
+
+.Driving{
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(85, 24, 141);
+}
+.Shopping{
+
+font-style: oblique;
+font-size: x-large;
+color: rgb(85, 180, 149);
+
+}
+.easy{
+    font-style: oblique;
+    color: rgb(180, 226, 226);
+}
+.link{
+    font-size: xx-large;
+    color: rgb(58, 39, 58);
+}
+.link2{
+font-size: xx-large;
+color: black;
+
+}
